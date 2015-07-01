@@ -114,7 +114,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: $secondary-color;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -168,7 +168,7 @@ HEADER STYLING
 ***************/
 
 .header {
-	background-color: $primary-color;
+	background-color: $secondary-color;
 	background-size: cover;
 	background-position: center center;
 	color: white;
