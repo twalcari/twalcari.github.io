@@ -2,7 +2,7 @@
 layout: post
 title: "URL Handler as an alternative to Java Webstart"
 comments: true
-date: "2015-06-26"
+date: "2015-07-01"
 ---
 
 Up until now, [jFed](http://jfed.iminds.be) used Java Webstart to integrate

@@ -1,5 +1,5 @@
 title: Thijs Walcarius
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Notes made while programming
 
 url: http://twalcari.github.io
 baseurl: ""
@@ -21,6 +21,5 @@ navigation:
 social:
    github: twalcari
    linkedin: thijswalcarius
-   email: thijs.walcarius@intec.ugent.be
 
-#google_analytics: "UA-58263416-1"
+google_analytics: "UA-82913-8"
