@@ -19,3 +19,6 @@ social:
    linkedin: thijswalcarius
 
 google_analytics: "UA-82913-8"
+
+gems:
+  - jekyll-sitemap
