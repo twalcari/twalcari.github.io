@@ -1,4 +1,4 @@
-title: Thijs Walcarius
+title: twalcari
 description: Notes made while programming
 
 url: http://twalcari.github.io
@@ -13,10 +13,6 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
 
 social:
    github: twalcari
